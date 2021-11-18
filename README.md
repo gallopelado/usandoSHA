@@ -1,0 +1,1 @@
+#### Implementación simple para la conversión de colecciones a SHA256
